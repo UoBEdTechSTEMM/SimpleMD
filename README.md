@@ -5,7 +5,7 @@ Hello :wave: This is a very simple molecular dynamics simulation using the Phaso
 `lib.js` contains the main code of our program. `app.js` calls the `simplemd.runApp` function with the div element that we want to include the canvas/SVG element in.
 
 
-[Try it out on github.io](https://rawgit.com/UoBEdTechSTEMM/MatrixTransforms/master/index.html)
+[Try it out on github.io](https://uobedtechstemm.github.io/SimpleMD/index.html)
 
 [View our homepage :tada:](https://github.com/UoBEdTechSTEMM/UoBEdTechSTEMM)
 
