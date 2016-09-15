@@ -100,7 +100,7 @@ var simplemd = simplemd || {};
     var mainState = {
       preload: function () {
         game.stage.backgroundColor = '#ffffff'
-        game.load.image('redparticle', '/static/sphere-11.png')
+        game.load.image('redparticle', '../static/sphere-11.png')
       },
       create: function () {
         var style = {font: '65px Arial', fill: '#ff0044', align: 'center'}
