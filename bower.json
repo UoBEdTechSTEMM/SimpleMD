@@ -1,0 +1,26 @@
+{
+  "name": "simplemd",
+  "description": "Simple molecular dynamics demonstration",
+  "main": "js/app.js",
+  "authors": [
+    "Jonathan Watkins"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Molecular",
+    "Dynamics"
+  ],
+  "homepage": "https://github.com/UoBEdTechSTEMM/SimpleMD",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.6.2",
+    "jquery": "^3.1.0"
+  }
+}
